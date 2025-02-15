@@ -1,2 +1,2 @@
-# MT3DSZ
-An efficient parrallel MT3D modeling code
+# MT3DAniso
+An efficient parrallel MT3DAniso modeling code
